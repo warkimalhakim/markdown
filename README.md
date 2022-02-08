@@ -1,23 +1,24 @@
 # PERINTAH MARKDOWN DASAR
 
-Dasar Markdown MD Extension
+Dasar Markdown MD Extension <br>
 `Warkim Rapii`
-
-`Markdown bisa ditulis dalan syntax Markdown itu sendiri ataupun (namun terbatas) juga dapat ditulis dengan tag HTML termasuk dengan kombinasi CSS secara inline.`
+Markdown bisa ditulis dalan syntax Markdown itu sendiri ataupun (namun terbatas) juga dapat ditulis dengan tag HTML termasuk dengan kombinasi CSS secara inline.
 
 # HEADINGS
 
 `Ditulis dalam syntax #`
 
 <hr>
-```
-# HEADING 1
-## HEADING 2
-### HEADING 3
+
+`# HEADING 1`
+`## HEADING 2`
+`### HEADING 3`
+
 #### HEADING 4
+
 ##### HEADING 5
+
 ###### HEADING 6
-````
 
 # BOLD
 
